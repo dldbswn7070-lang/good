@@ -1,4 +1,4 @@
--- 문제: 고양이와 개는 몇 마리 있을까 (코드카타 SQL Level 2)
+-- 문제: 고양이와 개는 몇 마리 있을까 (프로그래머스 SQL Level 2)
 -- 링크: https://school.programmers.co.kr/learn/courses/30/lessons/59040
 -- 날짜: 2026.01.14
 -- 내 블로그 풀이: https://moon2moo.tistory.com/61
