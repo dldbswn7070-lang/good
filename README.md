@@ -28,6 +28,7 @@
 Example: [Python] 짝수와 홀수 / Level4  / 3시간 or Review Needed(복습 필요)
 
 🎯 Study Goal
+
 [ ] 매일 1문제 이상 풀고 커밋하기 (1일 1커밋)
 
 [ ] 모르는 문법은 주석으로 정리해두기
