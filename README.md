@@ -19,6 +19,7 @@
  │    └── 📂 Level4     # 윈도우 함수, CTE, 복잡한 서브쿼리
  │    └── 📂 Level5     # 고급 분석, 재귀 쿼리, 복잡한 로직    
  └── 📄 README.md
+```
 ##📝 Commit Message Rule
 * **Python (첫 풀이)**: `[Python] 문제이름 / 난이도 / 소요시간`
 * **Python (다른 풀이 추가)**: `[Refactor] 문제이름 / 새로운 방식 요약`
