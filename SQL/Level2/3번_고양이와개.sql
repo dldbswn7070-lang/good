@@ -1,7 +1,7 @@
 -- 문제: 고양이와 개는 몇 마리 있을까 (코드카타 SQL Level 2)
 -- 링크: https://school.programmers.co.kr/learn/courses/30/lessons/59040
 -- 날짜: 2026.01.14
-
+-- 내 블로그 풀이: https://moon2moo.tistory.com/61
 /*
 [문제 풀이 흐름 / 수도코드]
 1. 가져오기: ANIMAL_TYPE과 그 개수(COUNT)를 선택한다.
