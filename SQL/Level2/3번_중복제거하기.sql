@@ -1,5 +1,5 @@
 -- 3번_중복제거하기.sql
-
+-- 출처: 부트캠프 SQL 코드카타 / 59408번
 -- 문제: 중복 제거하기 (프로그래머스 SQL Level 2)
 -- 링크: https://school.programmers.co.kr/learn/courses/30/lessons/59408
 -- 날짜: 2026.01.02
