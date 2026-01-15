@@ -2,7 +2,7 @@
 -- 출처: 부트캠프 SQL 코드카타 / 131535번
 -- 문제: 조건에 맞는 회원수 구하기 (프로그래머스 SQL Level 1)
 -- 링크: https://school.programmers.co.kr/learn/courses/30/lessons/131535
--- 날짜: 2026.01.16
+-- 날짜: 2026.01.07
 -- 문제풀이 블로그 링크:https://moon2moo.tistory.com/48
 
 /* [문제 포인트]
