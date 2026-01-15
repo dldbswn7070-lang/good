@@ -1,5 +1,5 @@
 -- 2번_역순정렬하기.sql
-
+-- 출처: 부트캠프 SQL 코드카타 
 -- 문제: 역순 정렬하기 (프로그래머스 59035번)
 -- 링크: https://school.programmers.co.kr/learn/courses/30/lessons/59035
 -- 날짜: 2025.12.31
