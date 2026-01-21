@@ -2,7 +2,7 @@
 # 프로그래머스 (unknown)
 # 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/144855
 # 작성자: 이윤주
-# 작성일: 2026. 01. 21. 11:40:51
+# 작성일: 2026. 01. 21. 11:44:36
 
 -- 코드를 입력하세요
 SELECT B.CATEGORY,
