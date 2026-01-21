@@ -19,7 +19,6 @@ ON C.BOOK_ID = B.BOOK_ID
 WHERE C.SALES_DATE BETWEEN "2022-01-01" AND "2022-01-31"
 GROUP BY B.CATEGORY
 ORDER BY B.CATEGORY ASC;
-
 /*
 --------------------------------------------------------------------------------
 [오답 노트 & 회고]
